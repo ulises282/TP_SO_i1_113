@@ -3,9 +3,9 @@ Gomez, Alejandro Ulises.
 Vivas, Franco.
 Franzoso, Gian Facundo.
 
-a- Alfa puede ver los datos que cargaron los demas miembros
+a- Alfa puede ver los datos que cargaron los demas miembros.
 b- Los demas miembros pueden ver los archivos que agrega Alfa.
-c-
-d-
+c- Si, los demas integrantes pueden ver los archivos agregados por alfa.
+d- Nos comunicamos por Discord y WhatsApp.
 e-
 
