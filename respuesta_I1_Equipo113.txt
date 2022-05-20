@@ -1,0 +1,11 @@
+Integrantes:
+Gomez, Alejandro Ulises.
+Vivas, Franco.
+Franzoso, Gian Facundo.
+
+a- Alfa puede ver los datos que cargaron los demas miembros
+b- Los demas miembros pueden ver los archivos que agrega Alfa.
+c-
+d-
+e-
+
